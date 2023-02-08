@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1660155930 source:e:\pro\blood donars management\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1660152230 source:e:\pro\blood donars management\resources.rc
+
